@@ -1,0 +1,34 @@
+EE478
+
+
+CLASS VERSION
+
+INPUT PINS
+P1: 1			//BT
+P3: 7			// Mode
+P5: 2, 4		// SDcard
+P7: 0, 1, 2		// Pushbuttons
+P8: 0 			// ANALOG Temp
+
+OUTPUT PINS
+P1: 0			// BT
+P2: 0, 1		// Pumps/relays
+P5: 0, 1, 3		// SDcard
+P6: 0 			// LCD
+
+
+
+
+
+
+
+COMMERCIAL VERSION
+
+INPUT PINS
+P3: 7			// Mode
+
+
+
+OUTPUT PINS
+P2: 0, 1		// Pumps/relays
+	5, 6, 7 	// LEDs
